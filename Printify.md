@@ -26,7 +26,7 @@ Another print on demand advantage is rapid testing: launch a design on Etsy, gat
 
 ## Getting Started with Printify
 
-1. Click the blue button above to open the official Printify site and create your merchant account.  
+1. Click the blue button above to open the official Printify site and create your merchant account for print on demand selling.  
 2. Connect your sales channel, such as Shopify or Etsy, and confirm catalog sync permissions.  
 3. Browse the product catalog, choose blanks and providers, then upload designs and configure variants.  
 4. Set retail pricing, publish listings to your store, and verify mockups match your brand standards before you share any printify review notes with collaborators.  
