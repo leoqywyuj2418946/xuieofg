@@ -35,7 +35,7 @@ The platform connects to google sheets, google analytics, analytics google expor
 - Collaboration with comments, version history, and granular sharing for agencies and in-house teams  
 - Brand themes, page navigation, and export options for PDF or embedded web views  
 - Support for questions like what is looker studio and what is google looker studio through in-product templates  
-- Continuity for users migrating from looker data studio, data studio google, google data studio looker, google studio looker, google studio, google looker, looker google, data studio looker, looker studio data studio, and data looker studio search habits  
+- Continuity for users migrating from legacy Data Studio naming and older saved report links  
 
 ---
 
@@ -67,7 +67,7 @@ The platform connects to google sheets, google analytics, analytics google expor
 - Stale numbers? Check refresh schedule, sample limits, and whether the underlying google sheets tab changed range.  
 - Blank charts? Verify field types, filters, and that blended data studio looker fields still map after renames.  
 - Sharing blocked? Confirm recipient Google accounts and Workspace policies allow external viewers.  
-- Confused by naming? Remember looker studio google, looker data studio, data studio, data studio google, google looker studio, looker studio data studio, data looker studio, google looker, looker google, google studio looker, and google studio all refer to this product family.
+- Confused by naming? The product was formerly called Google Data Studio; older bookmarks and training materials may still use that label.
 
 ---
 
