@@ -29,7 +29,7 @@ Another print on demand advantage is rapid testing: launch a design on Etsy, gat
 1. Click the blue button above to open the official Printify site and create your merchant account.  
 2. Connect your sales channel, such as Shopify or Etsy, and confirm catalog sync permissions.  
 3. Browse the product catalog, choose blanks and providers, then upload designs and configure variants.  
-4. Set retail pricing, publish listings to your store, and verify mockups match your brand standards.  
+4. Set retail pricing, publish listings to your store, and verify mockups match your brand standards before you share any printify review notes with collaborators.  
 5. Place a sample order when possible, then monitor live orders, tracking, and customer messaging from the dashboard.  
 6. Document lessons from your printify review process so printify uk or printify canada buyers receive predictable delivery windows.  
 
